@@ -77,4 +77,4 @@ The platform is based on the STM32F1 series microcontroller, integrating both em
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/YourUsername/STM32F1-AutoParking-Car.git
+   git clone https://github.com/Yunxuan-Lola/Automatic-Parking-Car.git
